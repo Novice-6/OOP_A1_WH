@@ -1,6 +1,7 @@
 /**
  * Part 2 – Child class 2
  * Represents a Gastroenterologist (specialist doctor) who focuses on digestive system issues.
+ * The same method does the same as the previous comment
  */
 public class Gastroenterologist extends HealthProfessional {
     // Additional instance variable specific to a Gastroenterologist
@@ -27,3 +28,4 @@ public class Gastroenterologist extends HealthProfessional {
         System.out.println();
     }
 }
+
